@@ -23,7 +23,7 @@ My research interests include multivariate analysis and robust statistics.
 ## Education
 - **TU Wien** - Doctoral program in Engineering Sciences Technical Mathematics (June 2021 - now). *Project: Feature Detection in Tribology* [^1]
 
-- **Visualization Project 2022**: [R Shiny App](https://u15sp1-piapfeiffer.shinyapps.io/londontube_shiny_app/)
+    - **Visualization Project 2022**: [R Shiny App](https://u15sp1-piapfeiffer.shinyapps.io/londontube_shiny_app/)
 
 [^1]: This work is funded by the Austrian
 COMET-Program (project [InTribology1](https://projekte.ffg.at/projekt/3228396), no. 872176) via the
