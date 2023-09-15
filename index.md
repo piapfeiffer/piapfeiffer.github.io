@@ -3,7 +3,7 @@ title: "Pia Pfeiffer"
 format: html
 ---
 
-I'm a PhD candidate advised by Prof. Dr. Peter Filzmoser at the research unit [Computational Statistics](https://www.tuwien.at/mg/cstat), Institute of Statistics & Mathematical Methods in Economics at TU Wien.
+I'm a PhD candidate advised by [Peter Filzmoser](https://cstat.tuwien.ac.at/) at the research unit [Computational Statistics](https://www.tuwien.at/mg/cstat), Institute of Statistics & Mathematical Methods in Economics at TU Wien.
 My research interests include multivariate analysis and robust statistics.
 
 ## Publications
