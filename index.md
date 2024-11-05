@@ -42,6 +42,7 @@ Austrian Research Promotion Agency (FFG) and the federal
 states of Niederösterreich and Vorarlberg.
 
 - **TU Wien** - Master’s program Technical Mathematics (December 2016 - January 2019)
+    - **Master thesis**: *Evolutionary game theory and replicator dynamics: applications to cancer progression, immune response to viruses and vaccinating behaviour.* [Repositum](https://repositum.tuwien.at/bitstream/20.500.12708/1887/2/Pfeiffer%20Pia%20-%202018%20-%20Evolutionary%20game%20theory%20and%20replicator%20dynamics...pdf)
 
 - **Queensland University of Technology** - University Exchange Semester (July 2017 - November 2017)
 Coursework: Applied Statistics, Analysis of Algorithms, Project Management 101, 
